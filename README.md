@@ -8,77 +8,77 @@ The objective of this project is to demonstrate data analysis, business metrics 
 
 Objectives
 
-Simulate a large insurance dataset for analytical purposes.
+1)Simulate a large insurance dataset for analytical purposes.
 
-Analyze policy sales distribution and claim frequency.
+2)Analyze policy sales distribution and claim frequency.
 
-Calculate key insurance metrics such as:
+3)Calculate key insurance metrics such as:
 
-Premium revenue
+-Premium revenue
 
-Claim cost
+-Claim cost
 
-Loss ratio
+-Loss ratio
 
-Identify most profitable policy tenure segments.
+4)Identify most profitable policy tenure segments.
 
-Visualize claim trends and policy performance through dashboards.
+5)Visualize claim trends and policy performance through dashboards.
 
-Dataset
+-Dataset
 
 The dataset was synthetically generated to mimic real-world insurance data.
 
-Key Fields
+-Key Fields
 
-Policy ID
+-Policy ID
 
-Customer ID
+-Customer ID
 
-Policy Start Date
+-Policy Start Date
 
-Policy Tenure
+-Policy Tenure
 
-Premium Amount
+-Premium Amount
 
-Claim Amount
+-Claim Amount
 
-Claim Status
+-Claim Status
 
-Policy Type
+-Policy Type
 
-Month of Policy
+-Month of Policy
 
 Total records generated: 1,000,000
 
 Technologies Used
 
-Python
+-Python
 
-Pandas
+-Pandas
 
-NumPy
+-NumPy
 
-Excel
+-Excel
 
-Power BI
+-Power BI
 
-Jupyter Notebook
+-Jupyter Notebook
 
-Key Analysis Performed
+-Key Analysis Performed
 
-Policy Distribution Analysis
+-Policy Distribution Analysis
 
-Number of policies by tenure
+-Number of policies by tenure
 
-Premium contribution by policy type
+-Premium contribution by policy type
 
-Claims Analysis
+-Claims Analysis
 
-Total claims vs total premiums
+-Total claims vs total premiums
 
-Claim frequency trends
+-Claim frequency trends
 
-Loss Ratio Calculation
+-Loss Ratio Calculation
 
 Loss Ratio = Total Claims ÷ Total Premium
 
